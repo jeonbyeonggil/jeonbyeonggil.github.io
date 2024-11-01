@@ -13,13 +13,13 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: plkr288@naver.com
+    phone: 010-4166-3098
+    timezone: Korea
     citizenship:
     website: https://jeonbyeonggil.github.io
-    linkedin: alandoe
-    xing: alandoe
+    linkedin: 
+    xing: 
     github: jeonbyeonggil
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -36,14 +36,8 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: KR
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
